@@ -1,0 +1,95 @@
+img{
+          width: 250px;
+          
+          
+          
+}
+
+div{
+    width: 800px;
+          margin: auto;
+          text-align: center;
+          
+
+                 }    
+
+                 .logo{
+                    background-image: url(260036070_1109678623106292_6558814269589093934_n.jpg);
+                    padding-top: 20px;
+                    background-repeat: no-repeat;
+                    width: 100%;
+                    background-position: center;
+                    margin: auto;
+
+                 }
+
+                 body{
+                    background-color: bisque; 
+                    
+                 }
+
+h1{
+          background-color: beige;
+          padding: 20px;
+          border: 20px solid #606062;
+          font-size: 30px;
+          font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+          border-radius: 10px 10px 0px 0;
+          border-bottom: 5px solid #606062;
+          
+          
+
+}
+
+h2{
+          color: rgb(175, 155, 94);
+          font-size: 20px;
+          font-family: Verdana, Geneva, Tahoma, sans-serif;
+          margin: 35px 20px;
+          background-color: #ffffff;
+          border: 2px solid #606062;
+          padding: 10px;
+          border-radius: 10px;
+          
+
+}
+
+h3{ font-size: 20px;
+          font-family: Verdana;
+          font-weight: normal;
+          
+          color: #606062;
+          padding: 10px 0;
+          margin-top: 30px;
+          border-top: 2px solid #606062;
+          border-bottom: 2px solid #606062;
+
+}
+
+p {
+          font-size: 16px;
+          font-family: Verdana;
+          text-align: justify;
+          line-height: 32px;
+          color: #616163;
+          margin-bottom: 35px;
+      }
+      
+      span {
+          font-weight: bold;
+      }
+
+      a {
+          font-size: 16px;
+          font-family: 'Verdana';
+          font-weight: bold;
+          text-decoration: none;
+          padding: 10px 15px;
+          margin-top: 15px;
+          
+          color: #ffffff;
+          background-color: #25D366;
+          border-radius: 25px;
+          text-align: center;
+          box-shadow: 10px;
+      }
